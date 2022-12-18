@@ -1,10 +1,10 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.0.5",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "Zephiria",
+    "preductname": "Zephiria",
+    "version": "1.0.0",
+    "description": "Zephiria Launcher for Minecraft Server",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "Alouchi200",
     "url": "http://launcher.selvania.fr",
     "engines": {
         "node": "^16.x.x"
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Zephiria/Zephiria.git"
     }
 }
